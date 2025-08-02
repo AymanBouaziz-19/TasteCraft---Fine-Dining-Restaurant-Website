@@ -1,4 +1,4 @@
-# 🍽️ TasteCraft – Fine Dining Restaurant Website
+# TasteCraft – Fine Dining Restaurant Website
 
 > **Personal project built with React + TypeScript to showcase full-stack development skills for luxury restaurants and hospitality brands.**
 
